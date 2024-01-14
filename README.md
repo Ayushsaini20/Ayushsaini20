@@ -5,7 +5,7 @@
 * **Batch📚**- 2020-2024
 * **Background🧑‍💻**- Artificial Intelligence, Machine Learning
 * **Hobbies**- Photography📸, Hicking ⛰️, Solo Rides🚵, Exploring New places⛰️
-* **Projects**- Project Collaborator(Web Devlopment), Infirmary Management System(Web devlopment), Football Prediction( Machine Learining), 
+* **Projects**- Project Collaborator(Web Devlopment), Infirmary Management System(Web devlopment), Football Prediction⚽️(Machine Learining), Pair Tradign in cryptocurrencies📈(Machine Learning)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.ayush_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-saini-b23314237/) 
